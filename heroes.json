@@ -1,22 +1,40 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
-      "id": 2,
-      "name": "Неизвестный герой",
-      "description": "Скрывающийся в тени",
+      "id": "9c5b5094-ab9c-4283-99a9-4193ed725f9a",
+      "name": "віаів",
+      "description": "апвапва",
       "element": "wind"
     },
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "id": "6f460a1c-1e88-4b81-9a38-85b1bbebd746",
+      "name": "вапвапв",
+      "description": "павпвапва",
+      "element": "earth"
+    },
+    {
+      "id": "a67bca79-4b37-4af2-841e-5dd4aa46e026",
+      "name": "Катрусик ",
+      "description": "k.,k.",
       "element": "water"
+    },
+    {
+      "id": "606b3f52-5af7-44eb-b733-46c9e573fbba",
+      "name": "sdfsdf",
+      "description": "vvds",
+      "element": "fire"
+    },
+    {
+      "id": "bceaa345-7f0f-417b-9876-ae18cd75a0bc",
+      "name": "Віктор PUSSYMOTHERFUCKER",
+      "description": "ewrewrfew",
+      "element": "wind"
+    },
+    {
+      "id": "f19cb5cd-4f62-4bb5-848f-caa71bbb0fd0",
+      "name": "Катрусик ",
+      "description": "dsfdsfs",
+      "element": "wind"
     }
   ],
   "filters": [
