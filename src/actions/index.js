@@ -37,6 +37,16 @@ export const filtersFetched = (filters) => {
         payload: filters
     }
 }
+// export const filtersFetched = (filters) => (dispatch) => {
+//   setTimeout(() => {
+//     dispatch({
+//       type: 'FILTERS_FETCHED',
+//       payload: filters
+//     });
+//   }, 2000);
+// }
+
+
 
 export const filtersFetchingError = () => {
     return {
@@ -44,11 +54,13 @@ export const filtersFetchingError = () => {
     }
 }
 
-export const activeFilterChanged = (filter)=> {
-    return {
+export const activeFilterChanged = (filter)=> (dispatch)=> {
+    setTimeout(()=>{
+        dispatch({
         type: 'ACTIVE_FILTER_CHANGED',
         payload: filter
-    }
+    })
+    },1000)
 }
 
 export const heroCreated = (hero) => {

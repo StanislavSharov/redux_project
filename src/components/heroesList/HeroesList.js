@@ -34,12 +34,6 @@ const HeroesList = () => {
 
     useEffect(() => {
         dispatch(fetchHeroes(request));
-        // dispatch(heroesFetching);
-        // request("http://localhost:3001/heroes")
-        //     .then(data => dispatch(heroesFetched(data)))
-        //     .catch(() => dispatch(heroesFetchingError()))
-
-        // // eslint-disable-next-line
     }, []);
 
     // Функция берет id и по нему удаляет ненужного персонажа из store
