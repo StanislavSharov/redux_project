@@ -1,51 +1,21 @@
 {
   "heroes": [
     {
-      "id": "9c5b5094-ab9c-4283-99a9-4193ed725f9a",
-      "name": "віаів",
-      "description": "апвапва",
-      "element": "wind"
-    },
-    {
-      "id": "6f460a1c-1e88-4b81-9a38-85b1bbebd746",
-      "name": "вапвапв",
-      "description": "павпвапва",
-      "element": "earth"
-    },
-    {
-      "id": "a67bca79-4b37-4af2-841e-5dd4aa46e026",
-      "name": "Катрусик ",
-      "description": "k.,k.",
-      "element": "water"
-    },
-    {
-      "id": "606b3f52-5af7-44eb-b733-46c9e573fbba",
-      "name": "sdfsdf",
-      "description": "vvds",
-      "element": "fire"
-    },
-    {
-      "id": "bceaa345-7f0f-417b-9876-ae18cd75a0bc",
-      "name": "Віктор PUSSYMOTHERFUCKER",
-      "description": "ewrewrfew",
-      "element": "wind"
-    },
-    {
-      "id": "f19cb5cd-4f62-4bb5-848f-caa71bbb0fd0",
-      "name": "Катрусик ",
-      "description": "dsfdsfs",
-      "element": "wind"
-    },
-    {
-      "id": "111cff5b-66e9-41aa-998b-241058084b80",
-      "name": "Віктор ",
-      "description": "n",
-      "element": "fire"
-    },
-    {
       "id": "b68ecb4a-b9a8-4b02-9aee-5ca07d16b667",
       "name": "2",
       "description": "1",
+      "element": "water"
+    },
+    {
+      "id": "ecf0d84a-8d60-4d5b-be30-b3678f640c4c",
+      "name": "hgfhfg",
+      "description": "ngf",
+      "element": "fire"
+    },
+    {
+      "id": "6bd8ec97-d17c-4729-9949-f978a5ce7f03",
+      "name": "sdfdsfsdfdsfsdfdsfsdfsdfsdfs",
+      "description": "dsfsdfsdf",
       "element": "water"
     }
   ],
