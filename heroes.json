@@ -17,6 +17,18 @@
       "name": "sdfdsfsdfdsfsdfdsfsdfsdfsdfs",
       "description": "dsfsdfsdf",
       "element": "water"
+    },
+    {
+      "id": "e9e76ee6-7b74-40db-8b30-462b83606db2",
+      "name": "hfghfggf",
+      "description": "hfgfhfhfhfghgffhgfhfgggggggggggggggggggggggggggggggggggggggggggggg",
+      "element": "wind"
+    },
+    {
+      "id": "625a4552-cd26-4d7b-ba74-3394efba8eba",
+      "name": "Віктор",
+      "description": "Понос\n",
+      "element": "earth"
     }
   ],
   "filters": [
