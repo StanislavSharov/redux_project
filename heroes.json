@@ -7,12 +7,6 @@
       "element": "water"
     },
     {
-      "id": "ecf0d84a-8d60-4d5b-be30-b3678f640c4c",
-      "name": "hgfhfg",
-      "description": "ngf",
-      "element": "fire"
-    },
-    {
       "id": "6bd8ec97-d17c-4729-9949-f978a5ce7f03",
       "name": "sdfdsfsdfdsfsdfdsfsdfsdfsdfs",
       "description": "dsfsdfsdf",
@@ -35,12 +29,6 @@
       "name": "xcvxcv",
       "description": "xcvxc",
       "element": "water"
-    },
-    {
-      "id": "2601bca9-55f9-4d84-ac8d-31482c74fae1",
-      "name": "cnfc",
-      "description": "cnfc",
-      "element": "fire"
     }
   ],
   "filters": [
