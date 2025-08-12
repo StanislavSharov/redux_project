@@ -1,58 +1,57 @@
 {
   "heroes": [
     {
-      "id": "b68ecb4a-b9a8-4b02-9aee-5ca07d16b667",
-      "name": "2",
-      "description": "1",
-      "element": "water"
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
     },
     {
-      "id": "6bd8ec97-d17c-4729-9949-f978a5ce7f03",
-      "name": "sdfdsfsdfdsfsdfdsfsdfsdfsdfs",
-      "description": "dsfsdfsdf",
-      "element": "water"
-    },
-    {
-      "id": "e9e76ee6-7b74-40db-8b30-462b83606db2",
-      "name": "hfghfggf",
-      "description": "hfgfhfhfhfghgffhgfhfgggggggggggggggggggggggggggggggggggggggggggggg",
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
       "element": "wind"
     },
     {
-      "id": "625a4552-cd26-4d7b-ba74-3394efba8eba",
-      "name": "Віктор",
-      "description": "Понос\n",
-      "element": "earth"
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
     },
     {
-      "id": "8d6017a5-43ad-4896-8d2b-c82c60090640",
-      "name": "xcvxcv",
-      "description": "xcvxc",
-      "element": "water"
+      "id": "86400834-d964-4e13-89f6-fe35d85ca0a4",
+      "name": "Катрусик ",
+      "description": "fdgdfg",
+      "element": "fire"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
