@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
       "id": 2,
       "name": "Неизвестный герой",
       "description": "Скрывающийся в тени",
@@ -19,10 +13,10 @@
       "element": "water"
     },
     {
-      "id": "86400834-d964-4e13-89f6-fe35d85ca0a4",
-      "name": "Катрусик ",
-      "description": "fdgdfg",
-      "element": "fire"
+      "id": "7acefc6a-4d3b-4660-aa44-0574e661bf76",
+      "name": "dsf",
+      "description": "sdfsd",
+      "element": "water"
     }
   ],
   "filters": [
